@@ -1,2 +1,2 @@
-# UI1
-Repo for projects in UI1
+# Carter Smith
+## User Interface 1 (CS5167)
